@@ -1,0 +1,8 @@
+C:\Users\AZagitov\OneDrive - Schlumberger\Desktop\MoveFigures\obj\Debug\MoveFigures.csprojAssemblyReference.cache
+C:\Users\AZagitov\OneDrive - Schlumberger\Desktop\MoveFigures\obj\Debug\MoveFigures.MainForm.resources
+C:\Users\AZagitov\OneDrive - Schlumberger\Desktop\MoveFigures\obj\Debug\MoveFigures.csproj.GenerateResource.cache
+C:\Users\AZagitov\OneDrive - Schlumberger\Desktop\MoveFigures\bin\Debug\Figures.exe
+C:\Users\AZagitov\OneDrive - Schlumberger\Desktop\MoveFigures\bin\Debug\Figures.pdb
+C:\Users\AZagitov\OneDrive - Schlumberger\Desktop\MoveFigures\obj\Debug\Figures.Properties.Resources.resources
+C:\Users\AZagitov\OneDrive - Schlumberger\Desktop\MoveFigures\obj\Debug\Figures.exe
+C:\Users\AZagitov\OneDrive - Schlumberger\Desktop\MoveFigures\obj\Debug\Figures.pdb
